@@ -11,7 +11,7 @@ def my_select(collection)
  i += 1 
  end
  
- collection
+ new_array
 end
 
 
